@@ -15,16 +15,4 @@ public class AimRotation : MonoBehaviour
     {
         _controller.GetComponent<CharacterController>();
     }
-
-    void Start()
-    {
-
-    }
-
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }
